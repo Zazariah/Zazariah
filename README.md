@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning zenekraftolás
 - 💞️ I’m looking to collaborate on zenekraftolás
 - 📫 How to reach me:
-•You can reach me in Paul street•
+•You can reach me at Paul street•
 
 
 Zazariah/Zazariah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
